@@ -56,4 +56,4 @@ unittest2
 pyftdi==0.5.2
 pyasn1
 email_validator
-opencv-python==4.2.0.32
+opencv-python==4.3.0.38
